@@ -39,14 +39,19 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/vignesh33-ui/GAN-Guard.git
+   git clone https://github.com/codeby-vicky/GAN-Guard.git
    cd GAN-Guard
 ````
 
 2. **Install Dependencies**
 
    ```bash
-   pip install -r requirements.txt
+   pip install torch torchvision torchaudio
+   pip install numpy pandas
+   pip install opencv-python opencv-python-headless
+   pip install matplotlib seaborn
+   pip install scikit-learn
+   pip install pytorch-lightning
    ```
 
 3. **Add Training Data**
