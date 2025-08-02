@@ -1,0 +1,5 @@
+all:
+	python traingan.py
+	python detectano.py
+
+phony: all
