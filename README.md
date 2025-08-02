@@ -80,7 +80,7 @@ GAN-Guard/
 
 ## 📸 Demo 
 
-![screenshots](./screenshots/Picture1.jpg)
+![screenshots](screenshots/Picture1.jpg)
 
 ## 👨‍💻 Author
 
