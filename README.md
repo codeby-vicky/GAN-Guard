@@ -78,7 +78,7 @@ GAN-Guard/
 └── README.md              # Project documentation
 ```
 
-## 📸 Demo (Optional)
+## 📸 Demo 
 
 ![screenshots](./screenshots/Picture1.jpg)
 
